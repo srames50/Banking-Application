@@ -1,8 +1,8 @@
-# The Jolly Banker
+# Banking Application
 
 ## Overview
 
-Welcome to "The Jolly Banker" – a project where I delved into the realms of handling banking transactions using queues and binary search trees. This project served as an opportunity to explore program and class design.
+Welcome to my Banking Application a project where I delved into the realms of handling banking transactions using queues and binary search trees. This project served as an opportunity to explore program and class design.
 
 ## Purpose
 
